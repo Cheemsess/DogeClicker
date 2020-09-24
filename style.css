@@ -1,0 +1,32 @@
+body{
+  background-color: #a07840;
+}
+#all{
+  width: 700px;
+	margin: 50px auto;
+  text-align: right;
+  border: #281e10 5px solid;
+  padding-right: 30px;
+  border-radius: 15px;
+  background-color: #cfb187;
+  padding-bottom: 15px;
+}
+img{
+  width: 200px;
+}
+#instru {
+  background-color: #cfb187;
+  padding: 15px;
+  color: #49371d;
+  border: #281e10 5px solid;
+  border-radius: 15px;
+  margin-left: 50px;
+  margin-right: 700px;
+}
+.l {
+  text-align: left;
+  padding: 30px;
+}
+#header {
+  padding-right: 10px;
+}
